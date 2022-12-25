@@ -1,2 +1,2 @@
 
-<img align="right" alt="Coding" width="400" src="./banner.png">
+<img align="right" alt="Coding" width="100%" src="./banner.png">
