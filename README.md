@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h2>
-    ### :hammer_and_wrench: Languages and Tools :
+    :hammer_and_wrench: Languages and Tools :
 </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
