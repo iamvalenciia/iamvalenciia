@@ -1,3 +1,7 @@
+<h1>
+  I'am Juan Pablo Valencia
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="header" align="left">
     <img align="right" alt="Coding" width="100%" src="./banner.png">
 </div>
@@ -10,10 +14,6 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?iamvalenciia=your-github-iamvalenciia&style=flat-square&color=blue" alt=""/>
-<h1>
-  I'am Juan Pablo Valencia
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div>
     <h2>
         :hammer_and_wrench: language of specialization :
