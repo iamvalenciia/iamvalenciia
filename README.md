@@ -22,6 +22,5 @@
 </div>
 
 ### :fire: My Stats :
-<div align="left">
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=iamvalenciia&theme=lowcontrast&show_icons=true&count_private=true)
-</div>
+![Github stats](https://github-readme-stats.vercel.app/api?username=iamvalenciia&theme=lowcontrast&show_icons=true&count_private=true)
+
