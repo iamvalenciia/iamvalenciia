@@ -23,4 +23,5 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-iamvalenciia&theme=dark&background=000000)](https://git.io/streak-stats)
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=iamvalenciia&theme=highcontrast&show_icons=true&count_private=true)
