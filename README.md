@@ -5,7 +5,7 @@
 <div id="header" align="left">
     <img align="right" alt="Coding" width="100%" src="./banner.png">
 </div>
-<div id="badges" align="center">
+<div id="badges" align="center" padding="20px">
   <a href="https://www.linkedin.com/in/juan-pablo-valencia-714a68201/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
