@@ -16,9 +16,13 @@
 <img src="https://komarev.com/ghpvc/?iamvalenciia=your-github-iamvalenciia&style=flat-square&color=blue" alt=""/>
 <div>
     <h2>
-        :hammer_and_wrench: language of specialization :
+        :hammer_and_wrench: Programming languages I use:
     </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
