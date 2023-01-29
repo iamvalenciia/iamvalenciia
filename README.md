@@ -6,10 +6,10 @@
     <img align="right" alt="Coding" width="100%" src="./banner.png">
 </div>
 <div id="badges" align="center" padding="20px">
-  <a target="_blank" href="https://www.linkedin.com/in/juan-pablo-valencia-714a68201/">
+  <a " href="https://www.linkedin.com/in/juan-pablo-valencia-714a68201/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a target="_blank" href="https://www.youtube.com/channel/UCZQjRtNoklEli2Zfu8I-vuw">
+  <a href="https://www.youtube.com/channel/UCZQjRtNoklEli2Zfu8I-vuw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
