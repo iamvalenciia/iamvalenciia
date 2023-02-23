@@ -3,6 +3,6 @@
 </p>
 <br>
 <p>
-   Currently learning: React.js with Vite, Typescript, PHP
+   Currently learning: React.js with Vite, Typescript, PHP, tailwind CSS
 </p>
 
