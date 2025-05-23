@@ -1,61 +1,37 @@
-# 💻 Juan Pablo Valencia — Software Developer & Data Analyst
+# Juan Pablo Valencia — Software Developer & Data Analyst
 
-👋 Hi! I'm **Juan Pablo Valencia**, a passionate software developer and data analyst based in Esmeraldas, Ecuador. I'm driven by the impact technology can have on real-world problems and committed to building scalable, user-centered applications. I'm currently pursuing a Bachelor's in Software Development at **BYU–Idaho** and hold a **Mid-Level Vue.js Certification** from Vue School.
+I'm a software developer and data analyst based in Esmeraldas, Ecuador, with experience in backend systems, data automation, and full-stack development. I focus on building scalable solutions that reduce manual work, improve data quality, and deliver real-world impact. Currently pursuing a Bachelor's degree in Software Development at BYU–Idaho and certified as a Mid-Level Vue.js Developer.
 
----
-
-## 🚀 About Me
-
-With experience across backend systems, data automation, and full-stack development, I specialize in building efficient solutions that reduce manual work, improve data integrity, and enhance user experiences. I thrive in Agile environments and enjoy working on meaningful projects—whether it's launching social impact apps or streamlining enterprise data workflows.
-
----
-
-## 🛠️ Skills
+## Skills
 
 **Languages & Frameworks**  
 JavaScript, TypeScript, Python, Dart, SQL, PHP, C#, Flutter, React, Vue.js, Blazor
 
 **Backend & APIs**  
-REST APIs, GraphQL, Node.js, Supabase, Firebase, Microservices
+REST APIs, GraphQL, Node.js, Supabase, Firebase
 
 **Databases**  
 PostgreSQL, MySQL, MongoDB, BigQuery
 
-**DevOps & Cloud**  
-AWS, Azure, Docker, GitHub Actions, CI/CD pipelines
+**DevOps & Tools**  
+Docker, AWS, Azure, GitHub Actions, CI/CD, Cypress, Selenium, Swagger, Postman, Looker Studio
 
-**Testing & Tools**  
-Cypress, Selenium, Vitest, Swagger, Postman, Git, Looker Studio
+## Selected Projects
 
----
+**[SwiftCopy – Chrome Extension | Graphite Connect (2025)](https://github.com/iamvalenciia/swiftcopy)**  
+Developed a Chrome extension to streamline access to message templates, reducing compliance response time by 20%.  
+*Tech: JavaScript, Chrome APIs*
 
-## 🧠 Projects & Experience Highlights
+**[FSY Registration System | LDS Church (2025)](https://github.com/iamvalenciia/pfj-website)**  
+Built a full-stack Vue.js + Supabase platform replacing Excel workflows, enabling over 500 participant registrations.  
+*Tech: Vue.js, Supabase, Python*
 
-### 🔹 [SwiftCopy – Chrome Extension | Graphite Connect (2025)]  
-A Chrome extension that automated access to message templates, improving compliance response speed by 20%.  
-**Tech:** JavaScript, Chrome APIs
+**[Ministrar – Social Impact App (2022–2023)](https://play.google.com/store/apps/details?id=com.juan.ministrar3&pcampaignid=web_share)**  
+Launched a Flutter-based app that connects users with nearby food and medical help through geolocation.  
+*Tech: Flutter, Supabase, CI/CD*
 
-### 🔹 FSY Registration System | LDS Church (2025)  
-Replaced Excel-based workflows with a Vue.js + Supabase full-stack solution to support 500+ participant registrations.  
-**Tech:** Vue.js, Supabase, Python
+## Contact
 
-### 🔹 Ministrar – Social Impact App (2022–2023)  
-Flutter-based app connecting underserved users through geolocation to food and medical help nearby. 100+ downloads.  
-**Tech:** Flutter, Supabase, CI/CD
-
-### 🔹 BI Dashboards | FidelizaTech (2023)  
-Developed real-time dashboards with Looker Studio + BigQuery for pharmacy and hardware retail affiliates in Ecuador.  
-**Tech:** SQL, BigQuery, Looker Studio
-
----
-
-## 📫 Contact
-
-- 📧 Email: [juanfrrin@gmail.com](mailto:juanfrrin@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/juanpvalencia](https://www.linkedin.com/in/juanpvalencia)  
-- 💻 GitHub: [github.com/juanfrrin](https://github.com/juanfrrin)  
-- 📍 Location: Esmeraldas, Ecuador (Open to Relocate)
-
----
-
-Thanks for stopping by! Feel free to fork this repo or reach out if you want to collaborate!
+**Email:** juanfrrin@gmail.com  
+**LinkedIn:** [linkedin.com/in/juanpvalencia](https://www.linkedin.com/in/juanpvalencia)  
+**Location:** Esmeraldas, Ecuador (Open to relocate)
