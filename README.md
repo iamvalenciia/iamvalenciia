@@ -32,5 +32,5 @@ Launched a Flutter-based app that connects users with nearby food and medical he
 
 ## Contact
 
-**LinkedIn:** [linkedin.com/in/juanvalencia](https://www.linkedin.com/in/juan-pablo-valencia-714a68201/)  
+**LinkedIn:** [https://www.linkedin.com/in/juan-pablo-valencia-714a68201/](https://www.linkedin.com/in/juan-pablo-valencia-714a68201/)  
 **Location:** Esmeraldas, Ecuador
