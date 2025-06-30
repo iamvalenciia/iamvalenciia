@@ -11,7 +11,7 @@ Solana Blockchain Interaction, Decentralized Finance (DeFi), Token Standards (SP
 AWS lambda, AWS DynamoDB, AWS ECS, AWS EventBridge
 
 **Languages & Frameworks**  
-TypeScript, Python, Dart, SQL, PHP, C#, Flutter, Vue.js, Blazor
+TypeScript, Python, Dart, SQL, Flutter, Vue.js
 
 **Backend & APIs**  
 REST APIs, GraphQL API, Supabase, Firebase
