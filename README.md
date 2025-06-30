@@ -4,8 +4,11 @@ I'm a software developer and data analyst based in Esmeraldas, Ecuador, with exp
 
 ## Skills
 
-**Web3 / Blockchain**
-Solana Blockchain Interaction, Decentralized Finance (DeFi), Token Standards (SPL), On-chain Data Retrieval, Key Management, RPC Communication
+**Web3 / Blockchain**  
+Solana Blockchain Interaction, Decentralized Finance (DeFi), Token Standards (SPL), On-chain Data Retrieval, RPC Communication
+
+**Amazon Web Services**  
+AWS lambda, AWS DynamoDB, AWS ECS, AWS EventBridge
 
 **Languages & Frameworks**  
 TypeScript, Python, Dart, SQL, PHP, C#, Flutter, Vue.js, Blazor
@@ -15,9 +18,6 @@ REST APIs, GraphQL API, Supabase, Firebase
 
 **Databases**  
 PostgreSQL, MongoDB
-
-**Amazon Web Services**  
-AWS lambda, AWS DynamoDB, AWS ECS, AWS EventBridge
 
 ## Selected Projects
 
