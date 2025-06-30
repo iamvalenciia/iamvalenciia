@@ -4,19 +4,26 @@ I'm a software developer and data analyst based in Esmeraldas, Ecuador, with exp
 
 ## Skills
 
+**Web3 / Blockchain**
+Solana Blockchain Interaction, Decentralized Finance (DeFi), Token Standards (SPL), On-chain Data Retrieval, Key Management, RPC Communication
+
 **Languages & Frameworks**  
-JavaScript, TypeScript, Python, Dart, SQL, PHP, C#, Flutter, React, Vue.js, Blazor
+TypeScript, Python, Dart, SQL, PHP, C#, Flutter, Vue.js, Blazor
 
 **Backend & APIs**  
-REST APIs, GraphQL, Node.js, Supabase, Firebase
+REST APIs, GraphQL API, Supabase, Firebase
 
 **Databases**  
-PostgreSQL, MySQL, MongoDB, BigQuery
+PostgreSQL, MongoDB
 
-**DevOps & Tools**  
-Docker, AWS, Azure, GitHub Actions, CI/CD, Cypress, Selenium, Swagger, Postman, Looker Studio
+**Amazon Web Services**  
+AWS lambda, AWS DynamoDB, AWS ECS, AWS EventBridge
 
 ## Selected Projects
+
+**[Solana Automated Trading Bot (2025)](https://github.com/iamvalenciia/solana-trading-bot)** 
+Developed a Python-based Web3 trading bot for the Solana blockchain, automating profit-taking and loss-aversion strategies for specific tokens.
+*Tech: Python, solders, Docker, AWS Lambda*
 
 **[SwiftCopy – Chrome Extension | Graphite Connect (2025)](https://github.com/iamvalenciia/swiftcopy)**  
 Developed a Chrome extension to streamline access to message templates, reducing compliance response time by 20%.  
@@ -33,4 +40,4 @@ Launched a Flutter-based app that connects users with nearby food and medical he
 ## Contact
 
 **LinkedIn:** [https://www.linkedin.com/in/juan-pablo-valencia-714a68201/](https://www.linkedin.com/in/juan-pablo-valencia-714a68201/)  
-**Location:** Esmeraldas, Ecuador
+**Location:** Ecuador
