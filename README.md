@@ -1,6 +1,6 @@
 # Software Developer & Data Analyst
 
-I'm a software developer and data analyst based in Esmeraldas, Ecuador, with experience in backend systems, data automation, and full-stack development. I focus on building scalable solutions that reduce manual work, improve data quality, and deliver real-world impact. Currently pursuing a Bachelor's degree in Software Development at BYU–Idaho and certified as a Mid-Level Vue.js Developer.
+Dedicated to creating scalable, user-focused solutions while advancing technical expertise.
 
 ## Skills
 
