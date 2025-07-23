@@ -20,6 +20,9 @@ REST APIs, GraphQL API, Supabase, Firebase
 PostgreSQL, MongoDB
 
 ## Selected Projects
+**[Pixel Perfect dain.org (2025)](https://github.com/iamvalenciia/pixel-perfect-dain)** 
+Recreated the dain.org website using semantic HTML, CSS, and JavaScript. Implemented a custom WebGL background animation.
+*Tech: HTML, CSS, JavaScript, WebGL*
 
 **[Solana Automated Trading Bot (2025)](https://github.com/iamvalenciia/solana-trading-bot)** 
 Developed a Python-based Web3 trading bot for the Solana blockchain, automating profit-taking and loss-aversion strategies for specific tokens.
