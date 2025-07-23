@@ -32,7 +32,7 @@ Developed a Python-based Web3 trading bot for the Solana blockchain, automating 
 Developed a Chrome extension to streamline access to message templates, reducing compliance response time by 20%.  
 *Tech: JavaScript, Chrome APIs*
 
-**[FSY Registration System | LDS Church (2025)](https://github.com/iamvalenciia/pfj-website)**  
+**[FSY Registration System | ONG (2025)](https://github.com/iamvalenciia/pfj-website)**  
 Built a full-stack Vue.js + Supabase platform replacing Excel workflows, enabling over 500 participant registrations.  
 *Tech: Vue.js, Supabase, Python*
 
